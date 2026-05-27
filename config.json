@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevelete",
+        "uuid": 28044324,
+        "checksum": "i4tcc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
